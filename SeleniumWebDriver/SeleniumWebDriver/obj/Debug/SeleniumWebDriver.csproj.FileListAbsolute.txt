@@ -1,0 +1,11 @@
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.exe.config
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.exe
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.pdb
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.dll
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.Support.dll
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.xml
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.Support.xml
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csprojAssemblyReference.cache
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.csproj.CopyComplete
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.exe
+G:\Source\Selenium\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.pdb
